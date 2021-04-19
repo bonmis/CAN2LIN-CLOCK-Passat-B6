@@ -1,3 +1,8 @@
+#********************************************
+#* Author: (c) bonmis
+#* contact: bonmis@go2.pl
+#********************************************
+
 #include <SPI.h>
 #include "mcp_can.h"
 int can_hour;
